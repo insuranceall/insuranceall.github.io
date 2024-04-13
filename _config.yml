@@ -21,8 +21,8 @@ title: 보험백과 # the main title
 
 tagline: 삼성ChFC 김윤수 010.9096.1234 # it will display as the sub-title
 
-description: 30여개 생명보험, 손해보험, 제3보험, 재보험 무료 전화 가입  및 상담 >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom feed
+  30여개 생명보험, 손해보험, 제3보험, 재보험 무료 전화 가입 및 상담
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
