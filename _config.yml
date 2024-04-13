@@ -12,16 +12,16 @@ theme: jekyll-theme-chirpy
 lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 보험백과 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 삼성ChFC 김윤수 010.9096.1234 # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: 30여개 생명보험, 손해보험, 제3보험, 재보험 무료 전화 가입  및 상담 >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
