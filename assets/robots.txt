@@ -8,3 +8,5 @@ User-agent: *
 Disallow: /norobots/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
+
+#DaumWebMasterTool:798ca2a5710d69e43bddfd67bb40e180e31d177fc575b3a8ea52c8e0d4e68310:uOXDFhI98rElIvcGkeeiBw==
