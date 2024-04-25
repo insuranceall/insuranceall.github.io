@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insuranceall.github.io/sitemap.xml
