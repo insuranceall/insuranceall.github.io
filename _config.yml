@@ -3,6 +3,9 @@
 include:
  - _javascript
 
+plugins:
+ - jekyll-sitemap
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
